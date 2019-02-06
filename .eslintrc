@@ -2,6 +2,7 @@
   "extends": ["airbnb", "prettier", "prettier/react"],
   "plugins": ["prettier"],
   "rules": {
+    "linebreak-style": "off",
     "react/jsx-filename-extension": [
       1,
       {
